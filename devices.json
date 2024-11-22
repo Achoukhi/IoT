@@ -1,0 +1,24 @@
+{
+    "devices": [
+        { "id": 1, "name": "Temperatuur Sensor", "status": "actief", "locatie": "Lobby" },
+        { "id": 2, "name": "Bewegingssensor", "status": "inactief", "locatie": "Hal" },
+        { "id": 3, "name": "Lichtsensor", "status": "actief", "locatie": "Kantoor 1" },
+        { "id": 4, "name": "Vochtigheid Sensor", "status": "actief", "locatie": "Kelder" },
+        { "id": 5, "name": "Camera", "status": "inactief", "locatie": "Ingang" },
+        { "id": 6, "name": "CO2 Sensor", "status": "actief", "locatie": "Vergaderruimte" },
+        { "id": 7, "name": "Slimme Steckdoos", "status": "actief", "locatie": "Serverruimte" },
+        { "id": 8, "name": "Deursensor", "status": "inactief", "locatie": "Ingang" },
+        { "id": 9, "name": "Slimme Thermostaat", "status": "actief", "locatie": "Kantoor 2" },
+        { "id": 10, "name": "Waterlekkage Sensor", "status": "inactief", "locatie": "Kelder" }
+    ],
+    "locaties": [
+        "Lobby",
+        "Hal",
+        "Kantoor 1",
+        "Kelder",
+        "Ingang",
+        "Vergaderruimte",
+        "Serverruimte",
+        "Kantoor 2"
+    ]
+}
